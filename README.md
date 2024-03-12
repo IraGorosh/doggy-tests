@@ -2,10 +2,13 @@
 
 ---
 ## Description
-This project covers the bills splitting application with API tests https://github.com/starteleport/DoggyFrictions
+
+This project covers the bills splitting application with API tests
 
 ### Running
-Clone git repository: docker-compose up
+
+- Clone git repository: https://github.com/starteleport/DoggyFrictions and run `docker-compose up` from the repository root
+- Run tests with: `mvn test verify`
 
 ### Stack of technologies used in the project
 
